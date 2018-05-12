@@ -1,0 +1,51 @@
+_repo: Ivanhoe--4-4-Le-retour-du-crois-_34608
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Montémont, Albert
+    alias: Montemont, Albert
+    birthdate: 1788
+    deathdate: 1861
+    gutenberg_agent_id: '36326'
+    url: http://www.gutenberg.org/2009/agents/36326
+covers:
+- cover_type: archival
+  image_path: 34608-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34608'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Great Britain -- History -- Richard I, 1189-1199 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Normans -- Great Britain -- Fiction'
+- !lcsh 'Anglo-Saxons -- Fiction'
+- !lcsh 'Jews -- England -- Fiction'
+- !lcsh 'Ivanhoe, Wilfred of, Sir (Fictitious character) -- Fiction'
+title: 'Ivanhoe (4/4)
+
+  Le retour du croisé'
+url: http://www.gutenberg.org/ebooks/34608
